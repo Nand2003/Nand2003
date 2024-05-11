@@ -12,8 +12,8 @@
 - ⚙️ I use daily: `.php`, `.js`, `.sql`
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💅 Want to work at: **People**
-- 🌱 Learning more about and studying: **Figma , JavaScript, API, Open Source, Postman API**
-- 💬 Ask me about **Figma , PHP , Laravel Framework, Adobe XD**
+- 🌱 Learning more about and studying: **Figma , JavaScript, API, Open Source, Postman API, MySql**
+- 💬 Ask me about **Figma , PHP , Laravel Framework, Adobe XD, MySql**
 - 📫 How to reach me **nandthaker23@gmail.com**
 - ⚡ Fun fact Love Tech Jokes😂
 ---
