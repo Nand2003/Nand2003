@@ -3,7 +3,6 @@
 
 <h3 align="center">Proficient Web Developer</h3>
 <h4 align="center">Software Engineer 💻 Passionate about continuous growth and development.</h4>
-<h4 align="center">React JS Enthusiastic</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nand2003&label=Profile%20views&color=0e75b6&style=flat" alt="Nand Thaker" /> </p>
 
@@ -14,9 +13,8 @@
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💅 Want to work at: **People**
 - 🌱 Learning more about and studying: **Figma , JavaScript, API, Open Source**
-- 💬 Ask me about **Figma , PHP , Linux**
+- 💬 Ask me about **Figma , PHP , Laravel Framework**
 - 📫 How to reach me **nandthaker23@gmail.com**
-- 😄 Passionate about AI and Quantum Computing to bring that tech into peoples hand and AR too!
 - ⚡ Fun fact Love Tech Jokes😂
 ---
 
